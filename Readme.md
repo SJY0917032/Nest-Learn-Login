@@ -1,9 +1,12 @@
-## 💻 Nest.js를 활용한 로그인세션 공부
+## 💻 Express.js 를 활용한 로그인 공부
 
-### 1. Login Process
+> 🔧Login Process
+> 🔧Cookie, Local Storage, Session Storage
+> 🔧JWT
 
-### 2. Cookie, Local Storage, Session Storage
+- 🎯1. login-session
 
-### 3. JWT
+  - `Session`을 활용한 로그인 `Express.js` 로 구현
 
-#### 1-1. Login Process
+- 🎯2. login-jwt
+  - `JWT`를 활용한 로그인 `Express.js`로 구현
